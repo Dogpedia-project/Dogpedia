@@ -4,6 +4,8 @@
 
 Dogpedia is a React.js web application that allows users to submit a photo of a dog. The application uses a Convolutional Neural Network (CNN) Inception-v3, customized through the Python Keras API, to identify the breed of the dog in the submitted photo. Subsequently, an API is called to gather important facts about that particular breed, which are then displayed to the user.
 
+See how it works here: https://dogpedia-nine.vercel.app/
+
 ![Prototype Image](images/Dogpedia_prototype.png)
 
 ## Model Approach
