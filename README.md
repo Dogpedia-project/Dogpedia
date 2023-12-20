@@ -28,6 +28,10 @@ https://kinduff.com/
 
 - [Mansij Mishra](https://github.com/MansijMishra)
 - [Johan Delao](https://github.com/JohanDelao)
+  
+  - Developed the web application using NextJS, React, and TailwindCSS.
+  - Connected the APIs (both conventionally named Dog API) Dog API and Dog API as well as the model response API.
+  - Collaborated on Report
 - [Henry Suarez](https://github.com/Henrysua12)
   
   - Attempted EfficentNet Model Approach.
